@@ -1,0 +1,62 @@
+.box {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.box span {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  padding: 2px;
+  text-align: center;
+  margin: 5px;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+.box span:hover {
+  cursor: pointer;
+  background-color: gray;
+  color: white;
+}
+
+.box input {
+  padding: 5px;
+}
+
+.box button {
+  margin-left: 5px;
+  background-color: white;
+  border: 1px solid gray;
+  font-weight: 400;
+  padding: 5px;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.box-container button:hover {
+  cursor: pointer;
+  background-color: gray;
+  color: white;
+}
+
+.box-container {
+  display: flex;
+  gap: 8px;
+}
+
+.box-container .box {
+  flex: 1;
+  height: 400px;
+}
+
+ul {
+  overflow-y: auto;
+  max-height: 250px;
+}
+
+.heading{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

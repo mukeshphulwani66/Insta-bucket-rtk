@@ -1,0 +1,32 @@
+{
+  "groceries": [
+    {
+      "id": 1,
+      "name": "Milk"
+    },
+    {
+      "id": 2,
+      "name": "Lemons"
+    },
+    {
+      "id": "noZCbcxmAFJ7RQXDSvE7Q",
+      "name": "oranges"
+    },
+    {
+      "id": "80uhBDg0TCFP3Xal7hX6d",
+      "name": "banana"
+    },
+    {
+      "id": "71XUwv51W9y_lBTJTFnVt",
+      "name": "tomatos"
+    },
+    {
+      "id": "Ba1u2YDH6ZwSudlbOEBQS",
+      "name": "onions"
+    },
+    {
+      "id": "jzTlGSt-FQN2DcsUux2wF",
+      "name": "apple"
+    }
+  ]
+}
